@@ -9,7 +9,7 @@ He is applying a variety of data science techniques to extract useful insights f
 Currently, he lives in Washington, DC.
 
 He also has a Ph.D. in chemical engineering from the Pennsylvania State University.
-His dissertation examined the shape control phenomena of nanocrystal synthesis, using molecular simulation and rare-event sampling techniques.
+His dissertation examined the shape control phenomena of nanocrystal synthesis, using molecular simulation and rare-event sampling.
 
 ### Contact me
 
