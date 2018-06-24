@@ -6,30 +6,28 @@
 name: Tonnam Balankura
 
 # Short bio or description (displayed in the header)
-description: Data Scientist at UnitedHealth Group
+description: Data Scientist at Optum UHG
 
 #
 # Flags below are optional
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars1.githubusercontent.com/u/6272864?s=400&u=57a0257b2ecc2e4bff591b018548b95913bf9444&v=4
 
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: Blog
-    url: /
   - name: About
     url: /about
   - name: Archive
     url: /archive
   - name: Tags
     url: /tags
-  - name: Theme
-    url: https://github.com/AWEEKJ/kiko-now
+  - name: Search DS
+    url: https://tonnamb.github.io/search-blogs/
 
 # Pagination
 paginate: 5
@@ -97,7 +95,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-plugins:
+plugins_dir:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-paginate
@@ -109,3 +107,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+gems: [jekyll-paginate]
