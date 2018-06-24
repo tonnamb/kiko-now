@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Tonnam Balankura is a data scientist at Optum, which is a health services and innovation company within the UnitedHealth Group.
+He is applying a variety of data science techniques to extract useful insights from clinical data, claims data and social media data.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+He received a Ph.D. in chemical engineering from the Pennsylvania State University.
+His dissertation examined the shape control phenomena of nanocrystal synthesis, using molecular simulation and rare-event sampling techniques.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tonnam.balankura@gmail.com](mailto:tonnam.balankura@gmail.com)
