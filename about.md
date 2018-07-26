@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Tonnam Balankura is a data scientist at Optum, which is a health innovation company within the UnitedHealth Group.
+Tonnam Balankura is a data scientist at a healthcare services company.
 He is applying a variety of data science techniques to extract useful insights from clinical data, claims data and social media data.
 Currently, he lives in Washington, DC.
 
