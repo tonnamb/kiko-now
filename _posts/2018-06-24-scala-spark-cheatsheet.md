@@ -69,4 +69,4 @@ df.dropDuplicates(Seq("VETID", "ANIMALID"))
 
 For an exhaustive list of the functions, you can check out the <a href="https://spark.apache.org/docs/latest/api/scala/index.html#org.apache.spark.sql.Dataset" target="_blank">Spark's Dataset class documentation</a>.
 
-Hope you've found this cheatsheet useful. If you did, please share it with your friends. Thank you!
+Hope you've found this cheatsheet useful. Thank you!
