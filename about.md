@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Tonnam Balankura is a data scientist at a healthcare services company.
-He is applying a variety of data science techniques to extract useful insights from clinical data, claims data and social media data.
-Currently, he lives in Washington, DC.
+Tonnam Balankura is a senior data scientist at Optum.
+He is developing NLP tools and data pipelines to do information extraction (sequence labeling + relation extraction) on clinical text.
+Currently, he lives in Dallas, TX.
 
 He also has a Ph.D. in chemical engineering from the Pennsylvania State University.
-His dissertation examined the shape control phenomena of nanocrystal synthesis, using molecular simulation and rare-event sampling.
 
 ### Contact me
 
